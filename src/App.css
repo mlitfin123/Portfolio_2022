@@ -1,0 +1,44 @@
+header {
+  color: white;
+  text-align: center;
+  background-color: black;
+  opacity: .9;
+  padding-bottom: 50px;
+}
+footer {
+  color: white;
+  text-align: center;
+  background-color: black;
+  opacity: .9;
+  padding-top: 50px;
+  padding-bottom: 25px;
+}
+.content_section-about {
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+.column-content-bio {
+  padding: 10px;
+}
+.content_section-skills {
+  border-top: black 5px solid;
+  padding-top: 20px;
+  text-align: center;
+}
+.content_section-skills {
+  padding-top: 30px;
+  padding-bottom: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.icons {
+  height: 20px;
+  width: 20px;
+}
+.icons:hover {
+  box-shadow: 0 0 3px black;
+  margin-top: -10px;
+}
+.icon:hover{
+  transform: scale(1.05);
+}

@@ -1,0 +1,238 @@
+[
+    {
+        "id": 1,
+        "title": "Financial Freedom",
+        "liveSite": "https://financialfreedombudget.herokuapp.com/",
+        "gitRepo": "https://github.com/mlitfin123/FinancialFreedom",
+        "projectImg": "financial_freedom_thumbnail.PNG",
+        "description": "This is an application created to help a user plan for an improved financial future. The application allows the user to track income and expenses so as to help give a visual for how much he or she is spending each day and month. The user can also view stocks and search for other investments to give them an opportunity to grow their money over time.",
+        "technologies": [
+            {
+                "techName": "React"
+            },
+            {
+                "techName": "JSX"
+            },
+            {
+                "techName": "Javascript"
+            },
+            {
+                "techName": "Mongo"
+            },
+            {
+                "techName": "HTML"
+            },
+            {
+                "techName": "CSS"
+            },
+            {
+                "techName": "RestAPI"
+            },
+            {
+                "techName": "Node Package Manager"
+            },
+            {
+                "techName": "Git Hub"
+            }
+        ],
+        "software": [
+            {
+                "techName": "Visual Studio"
+            },
+            {
+                "techName": "Robo3T"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Candy Run",
+        "gitRepo": "https://github.com/mlitfin123/CandyRun",
+        "projectImg": "candy_run_thumbnail.PNG",
+        "description": "This is a creative board game made with Unity to make exercising more enjoyable. The players roll a dice and a card flips telling the players what their next workout will consist of.",
+        "technologies": [
+            {
+                "techName": "C#"
+            },
+            {
+                "techName": "Git Hub"
+            }
+        ],
+        "software": [
+            {
+                "techName": "Visual Studio"
+            },
+            {
+                "techName": "Unity"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Space Shooter Game",
+        "liveSite": "https://simmer.io/@mlit123/space-shooter",
+        "gitRepo": "https://github.com/mlitfin123/Space_Shooter_Unity",
+        "projectImg": "Space_Shooter icon.png",
+        "description": "This is a one player space shooter game created with Unity. The player controls a ship and navigates through 20 levels while destroying and avoiding various enemies and obstacles along the way.",
+        "technologies": [
+            {
+                "techName": "C#"
+            },
+            {
+                "techName": "Git Hub"
+            }
+        ],
+        "software": [
+            {
+                "techName": "Visual Studio"
+            },
+            {
+                "techName": "Unity"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "LitGamers",
+        "liveSite": "https://litgamers.org/",
+        "gitRepo": "https://github.com/mlitfin123/litgamers",
+        "projectImg": "burger_app_thumbnail.PNG",
+        "description": " ",
+        "technologies": [
+            {
+                "techName": "HTML5"
+            },
+            {
+                "techName": "CSS3"
+            },
+            {
+                "techName": "Node JS"
+            },
+            {
+                "techName": "Express JS"
+            },
+            {
+                "techName": "Handlebars JS"
+            },
+            {
+                "techName": "Node Package Manager"
+            },
+            {
+                "techName": "Javascript"
+            },
+            {
+                "techName": "JQuery"
+            },
+            {
+                "techName": "MySQL"
+            },
+            {
+                "techName": "Git Hub"
+            }
+        ],
+        "software": [
+            {
+                "techName": "Visual Studio"
+            },
+            {
+                "techName": "MySQL Workbench"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Times Building",
+        "liveSite": "https://timesbuilding.herokuapp.com/",
+        "gitRepo": "https://github.com/mlitfin123/TimesBuilding",
+        "projectImg": "burger_app_thumbnail.PNG",
+        "description": " ",
+        "technologies": [
+            {
+                "techName": "HTML5"
+            },
+            {
+                "techName": "CSS3"
+            },
+            {
+                "techName": "Node JS"
+            },
+            {
+                "techName": "Express JS"
+            },
+            {
+                "techName": "Handlebars JS"
+            },
+            {
+                "techName": "Node Package Manager"
+            },
+            {
+                "techName": "Javascript"
+            },
+            {
+                "techName": "JQuery"
+            },
+            {
+                "techName": "MySQL"
+            },
+            {
+                "techName": "Git Hub"
+            }
+        ],
+        "software": [
+            {
+                "techName": "Visual Studio"
+            },
+            {
+                "techName": "MySQL Workbench"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "John's Welding Services",
+        "liveSite": "https://timesbuilding.herokuapp.com/",
+        "gitRepo": "https://github.com/mlitfin123/welding_business_site",
+        "projectImg": "burger_app_thumbnail.PNG",
+        "description": " ",
+        "technologies": [
+            {
+                "techName": "HTML5"
+            },
+            {
+                "techName": "CSS3"
+            },
+            {
+                "techName": "Node JS"
+            },
+            {
+                "techName": "Express JS"
+            },
+            {
+                "techName": "Handlebars JS"
+            },
+            {
+                "techName": "Node Package Manager"
+            },
+            {
+                "techName": "Javascript"
+            },
+            {
+                "techName": "JQuery"
+            },
+            {
+                "techName": "MySQL"
+            },
+            {
+                "techName": "Git Hub"
+            }
+        ],
+        "software": [
+            {
+                "techName": "Visual Studio"
+            },
+            {
+                "techName": "MySQL Workbench"
+            }
+        ]
+    }
+]
