@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import TechItem from './TechItem.js';
+import Zoom from 'react-reveal/Zoom';
 
 const Project = props => {
 
@@ -41,6 +42,7 @@ const Project = props => {
 return (
     <div id={id} className="col-lg-4 col-md-6 col-sm-12 project">
         <div className="project-container">
+            <Zoom>
             <h3>{title}</h3>
                     {getLinks(liveSite, gitRepo)}
                 <img className="img-fluid" src={process.env.PUBLIC_URL + "../images/" + projectImg} alt={title} />
@@ -85,6 +87,7 @@ return (
                         }
                     </div>
                 </div>
+                </Zoom>
             </div>
         </div>
     );

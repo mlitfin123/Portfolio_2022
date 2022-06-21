@@ -33,13 +33,13 @@ return (
         <div className="collapse navbar-collapse" id="navbarNav">
             <ul className="navbar-nav">
                 <li className="nav-item">
-                    <Link onClick={() => setActivePage('about')} className={activePage === 'about' ? 'nav-link active' : 'nav-link'} to="/about">About</Link>
+                    <Link id='navLink' onClick={() => setActivePage('about')} className={activePage === 'about' ? 'nav-link active' : 'nav-link'} to="/about">About</Link>
                 </li>
                 <li className="nav-item">
-                    <Link onClick={() => setActivePage('portfolio')} className={activePage === 'portfolio' ? 'nav-link active' : 'nav-link'} to="/portfolio">Portfolio</Link>
+                    <Link id='navLink' onClick={() => setActivePage('portfolio')} className={activePage === 'portfolio' ? 'nav-link active' : 'nav-link'} to="/portfolio">Portfolio</Link>
                 </li>
                 <li className="nav-item">
-                    <Link onClick={() => setActivePage('contact')} className={activePage === 'contact' ? 'nav-link active' : 'nav-link'} to="/contact">Contact</Link>
+                    <Link id='navLink' onClick={() => setActivePage('contact')} className={activePage === 'contact' ? 'nav-link active' : 'nav-link'} to="/contact">Contact</Link>
                 </li>
             </ul>
         </div>

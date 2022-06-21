@@ -42,3 +42,16 @@ footer {
 .icon:hover{
   transform: scale(1.05);
 }
+#navLink{
+  color: white;
+  border: silver solid;
+  font-weight: bold;
+}
+#navLink:hover {
+  opacity: .5;
+  transform: scale(1.05);
+}
+#navLink:active {
+  color: goldenrod;
+  transform: scale(1.10);
+}
