@@ -10,13 +10,13 @@ const Nav = () => {
     useEffect(() => {
         
         switch (location.pathname) {
-            case '/about':
+            case '/':
                 setActivePage('about');
             break;
             case '/contact':
                 setActivePage('contact');
             break;
-            case '/':
+            case '/portfolio':
                 setActivePage('portfolio');
             break;
             default: 
@@ -33,7 +33,7 @@ return (
         <div className="collapse navbar-collapse" id="navbarNav">
             <ul className="navbar-nav">
                 <li className="nav-item">
-                    <Link id='navLink' onClick={() => setActivePage('about')} className={activePage === 'about' ? 'nav-link active' : 'nav-link'} to="/about">About</Link>
+                    <Link id='navLink' onClick={() => setActivePage('about')} className={activePage === 'about' ? 'nav-link active' : 'nav-link'} to="/">About</Link>
                 </li>
                 <li className="nav-item">
                     <Link id='navLink' onClick={() => setActivePage('portfolio')} className={activePage === 'portfolio' ? 'nav-link active' : 'nav-link'} to="/portfolio">Portfolio</Link>
