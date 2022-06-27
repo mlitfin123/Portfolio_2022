@@ -160,7 +160,7 @@
         "title": "John's Welding Services",
         "liveSite": "https://timesbuilding.herokuapp.com/",
         "gitRepo": "https://github.com/mlitfin123/welding_business_site",
-        "projectImg": "burger_app_thumbnail.PNG",
+        "projectImg": "john's_welding.png",
         "description": "Simple website built for a welding business meant to give an online presence and assist in the process of scaling up.",
         "technologies": [
             {
@@ -239,8 +239,8 @@
         "id": 7,
         "title": "This Portfolio",
         "gitRepo": "https://github.com/mlitfin123/Portfolio_2022",
-        "projectImg": "Space_Shooter icon.png",
-        "description": "This is a one player space shooter game created with Unity. The player controls a ship and navigates through 20 levels while destroying and avoiding various enemies and obstacles along the way.",
+        "projectImg": "/favicon/computer.jpg",
+        "description": "This is the source code in GitHub for this specific portfolio you're currently looking at.",
         "technologies": [
             {
                 "techName": "React JS"

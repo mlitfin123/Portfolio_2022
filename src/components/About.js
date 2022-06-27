@@ -14,7 +14,7 @@ const About = () => {
                     <div className="column-content-bio">
                         <h1>About</h1>
                         <p>
-                            I am a professional web developer who has recently graduated with a certificate in full-stack web development from the University of Miami. This certificate program has provided me with newly developed skills in web development. My specialties include HTML, CSS, Javascript, Jquery, React, etc. I am known for my attention to detail and problem solving abilities which I have been able to develop through my years of working in quality assurance. I am passionate about coming up with new ideas and developing meaningful applications that can provide use or entertainment for their users.
+                            I am a professional web developer and software engineer with a passion for learning and trying new things. My training includes a certificate in full-stack web development from the University of Miami in addition to a bachelors degree from a four year university. I am constantly working on new projects in my spare time which has helped me to continuously develop new skills. I am known for my attention to detail and persistence when it comes to problem solving which I have been able to develop through my years of working in quality assurance. When I’m not coding you might find me busy training for a bodybuilding or powerlifting meet or enjoying the nice Florida weather.
                         </p>
                     </div>
                 </div>
