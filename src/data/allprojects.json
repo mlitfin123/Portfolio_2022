@@ -1,14 +1,14 @@
 [
     {
         "id": 1,
-        "title": "Financial Freedom",
-        "liveSite": "https://financialfreedombudget.herokuapp.com/",
-        "gitRepo": "https://github.com/mlitfin123/FinancialFreedom",
-        "projectImg": "financial_freedom_thumbnail.PNG",
-        "description": "This is an application created to help a user plan for an improved financial future. The application allows the user to track income and expenses so as to help give a visual for how much he or she is spending each day and month. The user can also view stocks and search for other investments to give them an opportunity to grow their money over time.",
+        "title": "LitGamers",
+        "liveSite": "https://litgamers.org/",
+        "gitRepo": "https://github.com/mlitfin123/litgamers",
+        "projectImg": "litgamers.png",
+        "description": "Website showing a collection of simple but challenging games available to play for free or for pay to compete against other users for an opportunity to win cash.",
         "technologies": [
             {
-                "techName": "React"
+                "techName": "React JS"
             },
             {
                 "techName": "JSX"
@@ -17,10 +17,121 @@
                 "techName": "Javascript"
             },
             {
+                "techName": "HTML5"
+            },
+            {
+                "techName": "CSS"
+            },
+            {
+                "techName": "Bootstrap"
+            },
+            {
+                "techName": "RestAPI"
+            },
+            {
+                "techName": "Node JS"
+            },
+            {
+                "techName": "Node Package Manager"
+            },
+            {
+                "techName": "Git Bash"
+            }
+        ],
+        "software": [
+            {
+                "techName": "Visual Studio"
+            },
+            {
+                "techName": "Firebase"
+            },
+            {
+                "techName": "PlayFab"
+            },
+            {
+                "techName": "EmailJS"
+            },
+            {
+                "techName": "Unity"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Times Building",
+        "liveSite": "https://timesbuilding.herokuapp.com/",
+        "gitRepo": "https://github.com/mlitfin123/TimesBuilding",
+        "projectImg": "timesbuilding.png",
+        "description": "Website built for a commercial real estate business to allow the owner to easily select options via an admin page to show prospective renters whether space is available for rent or full.",
+        "technologies": [
+            {
+                "techName": "React JS"
+            },
+            {
+                "techName": "HTML5"
+            },
+            {
+                "techName": "CSS3"
+            },
+            {
+                "techName": "Bootstrap"
+            },
+            {
+                "techName": "Node JS"
+            },
+            {
+                "techName": "Express JS"
+            },
+            {
+                "techName": "Node Package Manager"
+            },
+            {
+                "techName": "Javascript"
+            },
+            {
+                "techName": "MySQL"
+            },
+            {
+                "techName": "Git Bash"
+            }
+        ],
+        "software": [
+            {
+                "techName": "Visual Studio"
+            },
+            {
+                "techName": "MySQL Workbench"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Financial Freedom",
+        "liveSite": "https://financialfreedombudget.herokuapp.com/",
+        "gitRepo": "https://github.com/mlitfin123/FinancialFreedom",
+        "projectImg": "financial_freedom_thumbnail.PNG",
+        "description": "This is an application created to help a user plan for an improved financial future. The application allows the user to track income and expenses so as to help give a visual for how much he or she is spending each day and month. The user can also view stocks and search for other investments to give them an opportunity to grow their money over time.",
+        "technologies": [
+            {
+                "techName": "React JS"
+            },
+            {
+                "techName": "JSX"
+            },
+            {
+                "techName": "Bootstrap"
+            },
+            {
+                "techName": "Javascript"
+            },
+            {
                 "techName": "Mongo"
             },
             {
-                "techName": "HTML"
+                "techName": "Node JS"
+            },
+            {
+                "techName": "HTML5"
             },
             {
                 "techName": "CSS"
@@ -32,7 +143,7 @@
                 "techName": "Node Package Manager"
             },
             {
-                "techName": "Git Hub"
+                "techName": "Git Bash"
             }
         ],
         "software": [
@@ -40,12 +151,45 @@
                 "techName": "Visual Studio"
             },
             {
-                "techName": "Robo3T"
+                "techName": "Heroku"
             }
         ]
     },
     {
-        "id": 2,
+        "id": 4,
+        "title": "John's Welding Services",
+        "liveSite": "https://timesbuilding.herokuapp.com/",
+        "gitRepo": "https://github.com/mlitfin123/welding_business_site",
+        "projectImg": "burger_app_thumbnail.PNG",
+        "description": "Simple website built for a welding business meant to give an online presence and assist in the process of scaling up.",
+        "technologies": [
+            {
+                "techName": "HTML5"
+            },
+            {
+                "techName": "CSS3"
+            },
+            {
+                "techName": "Bootstrap"
+            },
+            {
+                "techName": "Node Package Manager"
+            },
+            {
+                "techName": "Git Bash"
+            }
+        ],
+        "software": [
+            {
+                "techName": "Visual Studio"
+            },
+            {
+                "techName": "AWS"
+            }
+        ]
+    },
+    {
+        "id": 5,
         "title": "Candy Run",
         "gitRepo": "https://github.com/mlitfin123/CandyRun",
         "projectImg": "candy_run_thumbnail.PNG",
@@ -55,7 +199,7 @@
                 "techName": "C#"
             },
             {
-                "techName": "Git Hub"
+                "techName": "Git Bash"
             }
         ],
         "software": [
@@ -68,7 +212,7 @@
         ]
     },
     {
-        "id": 3,
+        "id": 6,
         "title": "Space Shooter Game",
         "liveSite": "https://simmer.io/@mlit123/space-shooter",
         "gitRepo": "https://github.com/mlitfin123/Space_Shooter_Unity",
@@ -79,7 +223,7 @@
                 "techName": "C#"
             },
             {
-                "techName": "Git Hub"
+                "techName": "Git Bash"
             }
         ],
         "software": [
@@ -92,146 +236,46 @@
         ]
     },
     {
-        "id": 4,
-        "title": "LitGamers",
-        "liveSite": "https://litgamers.org/",
-        "gitRepo": "https://github.com/mlitfin123/litgamers",
-        "projectImg": "burger_app_thumbnail.PNG",
-        "description": " ",
+        "id": 7,
+        "title": "This Portfolio",
+        "gitRepo": "https://github.com/mlitfin123/Portfolio_2022",
+        "projectImg": "Space_Shooter icon.png",
+        "description": "This is a one player space shooter game created with Unity. The player controls a ship and navigates through 20 levels while destroying and avoiding various enemies and obstacles along the way.",
         "technologies": [
             {
-                "techName": "HTML5"
+                "techName": "React JS"
             },
             {
-                "techName": "CSS3"
-            },
-            {
-                "techName": "Node JS"
-            },
-            {
-                "techName": "Express JS"
-            },
-            {
-                "techName": "Handlebars JS"
-            },
-            {
-                "techName": "Node Package Manager"
+                "techName": "JSX"
             },
             {
                 "techName": "Javascript"
             },
             {
-                "techName": "JQuery"
-            },
-            {
-                "techName": "MySQL"
-            },
-            {
-                "techName": "Git Hub"
-            }
-        ],
-        "software": [
-            {
-                "techName": "Visual Studio"
-            },
-            {
-                "techName": "MySQL Workbench"
-            }
-        ]
-    },
-    {
-        "id": 5,
-        "title": "Times Building",
-        "liveSite": "https://timesbuilding.herokuapp.com/",
-        "gitRepo": "https://github.com/mlitfin123/TimesBuilding",
-        "projectImg": "burger_app_thumbnail.PNG",
-        "description": " ",
-        "technologies": [
-            {
                 "techName": "HTML5"
             },
             {
-                "techName": "CSS3"
+                "techName": "CSS"
+            },
+            {
+                "techName": "Bootstrap"
+            },
+            {
+                "techName": "JSON"
             },
             {
                 "techName": "Node JS"
             },
             {
-                "techName": "Express JS"
-            },
-            {
-                "techName": "Handlebars JS"
-            },
-            {
                 "techName": "Node Package Manager"
             },
             {
-                "techName": "Javascript"
-            },
-            {
-                "techName": "JQuery"
-            },
-            {
-                "techName": "MySQL"
-            },
-            {
-                "techName": "Git Hub"
+                "techName": "Git Bash"
             }
         ],
         "software": [
             {
                 "techName": "Visual Studio"
-            },
-            {
-                "techName": "MySQL Workbench"
-            }
-        ]
-    },
-    {
-        "id": 6,
-        "title": "John's Welding Services",
-        "liveSite": "https://timesbuilding.herokuapp.com/",
-        "gitRepo": "https://github.com/mlitfin123/welding_business_site",
-        "projectImg": "burger_app_thumbnail.PNG",
-        "description": " ",
-        "technologies": [
-            {
-                "techName": "HTML5"
-            },
-            {
-                "techName": "CSS3"
-            },
-            {
-                "techName": "Node JS"
-            },
-            {
-                "techName": "Express JS"
-            },
-            {
-                "techName": "Handlebars JS"
-            },
-            {
-                "techName": "Node Package Manager"
-            },
-            {
-                "techName": "Javascript"
-            },
-            {
-                "techName": "JQuery"
-            },
-            {
-                "techName": "MySQL"
-            },
-            {
-                "techName": "Git Hub"
-            }
-        ],
-        "software": [
-            {
-                "techName": "Visual Studio"
-            },
-            {
-                "techName": "MySQL Workbench"
             }
         ]
     }

@@ -13,26 +13,30 @@ const Project = props => {
     const getLinks = (liveSite, gitRepo) => {
         if (liveSite !== undefined && gitRepo !== undefined) {
             return (
-                <>
-                <a href={liveSite} title="Link to Live Site" target="blank" rel="noopener noreferrer">
-                    <button type="button" className="action-btn btn btn-primary">Live Site</button>
-                </a>
-                <a href={gitRepo} title="Link to GitHub Repo" target="blank" rel="noopener noreferrer">
-                    <button type="button" className="action-btn btn btn-primary">GitHub Repo</button>
-                </a>
-                </>
+                <div className="links">
+                    <a href={liveSite} title="Link to Live Site" target="blank" rel="noopener noreferrer">
+                        <button type="button" className="action-btn btn btn-primary">Live Site</button>
+                    </a>
+                    <a href={gitRepo} title="Link to GitHub Repo" target="blank" rel="noopener noreferrer">
+                        <button type="button" className="action-btn btn btn-primary">GitHub Repo</button>
+                    </a>
+                </div>
             )
         } else if (liveSite === undefined && gitRepo !== undefined) {
             return (
-                <a href={gitRepo} title="Link to GitHub Repo" target="blank" rel="noopener noreferrer">
-                    <button type="button" className="action-btn-full btn btn-primary">GitHub Repo</button>
-                </a>
+                <div className="links">
+                    <a href={gitRepo} title="Link to GitHub Repo" target="blank" rel="noopener noreferrer">
+                        <button type="button" className="action-btn-full btn btn-primary">GitHub Repo</button>
+                    </a>
+                </div>
             )
         } else if (liveSite !== undefined && gitRepo === undefined) {
             return (
-                <a href={liveSite} title="Link to Live Site" target="blank" rel="noopener noreferrer">
-                    <button type="button" className="action-btn-full btn btn-primary">Live Site</button>
-                </a>
+                <div className="links">
+                    <a href={liveSite} title="Link to Live Site" target="blank" rel="noopener noreferrer">
+                        <button type="button" className="action-btn-full btn btn-primary">Live Site</button>
+                    </a>
+                </div>
             )
         } else if (liveSite === undefined && gitRepo === undefined) {
             return <></>
@@ -43,9 +47,9 @@ return (
     <div id={id} className="col-lg-4 col-md-6 col-sm-12 project">
         <div className="project-container">
             <Zoom>
-            <h3>{title}</h3>
+            <h3><u>{title}</u></h3>
                     {getLinks(liveSite, gitRepo)}
-                <img className="img-fluid" src={process.env.PUBLIC_URL + "../images/" + projectImg} alt={title} />
+                <img className="img-fluid" src={process.env.PUBLIC_URL + "../images/" + projectImg} alt={title} width="100%"/>
                 <ul className="nav nav-tabs col-sm-12" role="tablist">
                     <li className="nav-item">
                         <button className={tabState.tab === 'Description' ? 'nav-link active' : 'nav-link'} onClick={() => setTabState({tab: 'Description'})} data-toggle="tab" role="tab" aria-controls="Description" aria-selected="true">Description</button>

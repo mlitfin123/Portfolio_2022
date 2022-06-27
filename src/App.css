@@ -20,6 +20,9 @@ footer {
 .column-content-bio {
   padding: 10px;
 }
+.column-content {
+  padding-bottom: 10px;
+}
 .content_section-skills {
   border-top: black 5px solid;
   padding-top: 20px;
@@ -30,6 +33,9 @@ footer {
   padding-bottom: 20px;
   padding-left: 10px;
   padding-right: 10px;
+}
+.content_section-portfolio {
+  padding: 15px;
 }
 .icons {
   height: 20px;
@@ -55,3 +61,55 @@ footer {
   color: goldenrod;
   transform: scale(1.10);
 }
+.title {
+  font-weight: bold;
+  text-decoration: underline;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 30px;
+}
+.project-container {
+  padding: 20px;
+  border: 20px solid black;
+  border-radius: 25px;
+  background-color: white;
+  text-align: center;
+  font-weight: bold;
+  opacity: .9;
+}
+.project-container p{
+  text-align: left;
+  font-weight: normal;
+}
+.project-container .img-fluid {
+  padding-bottom: 10px;
+  padding-top: 5px;
+}
+.project-container .tech-icons{
+  font-weight: normal;
+}
+.project .nav.nav-tabs .nav-item {
+  display: inline;
+  margin-left: auto;
+  margin-right: auto;
+}
+.btn.btn-primary {
+  font-weight: bold;
+  font-size: 16px;}
+
+.action-btn.btn.btn-primary {
+  width: 50%;
+  float: left;
+  border: 2px solid white; 
+}
+
+.action-btn.btn.btn-primary:hover {
+  background-color: rgb(0, 0, 175); }
+
+.action-btn-full.btn.btn-primary {
+  width: 100%;
+  border: 2px solid white; 
+}
+
+.action-btn-full.btn.btn-primary:hover {
+  background-color: rgb(0, 0, 175) }

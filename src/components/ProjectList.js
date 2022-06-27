@@ -10,8 +10,8 @@ const AllList = () => {
     }, []);
 
     return (
-        <section id="project_porfolio" className="content_section">
-            <h3>All Projects</h3>
+        <section id="project_porfolio" className="content_section-portfolio">
+            <h2 className="title">Portfolio</h2>
             <div className="category">
                 <div className="row">
                     {
