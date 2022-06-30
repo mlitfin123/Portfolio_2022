@@ -23,7 +23,7 @@ return (
                     <label><a href="https://www.linkedin.com/in/mark-litfin-b132bb67/" target="_blank" rel="noreferrer"><img src="images\icons\linkedin_social_icon.png" className="icons" alt="nothing here!"></img></a></label>&nbsp; &bull; &nbsp;
                     <label><a href="https://www.instagram.com/marklifting/?hl=en" target="_blank" rel="noreferrer"><img src="\images\icons\Instagram_icon.png" className="icons" alt="nothing here!"></img></a></label>
                 </div>
-                <label id="resume"><a href="./utilities/MarkLitfinResume.pdf" target="_blank">View My Resume</a></label>
+                <label id="resume"><a href="utilities/MarkLitfinResume.pdf" target="_blank">View My Resume</a></label>
             </div>
     </header>
     );
