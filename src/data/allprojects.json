@@ -239,7 +239,7 @@
         "id": 7,
         "title": "This Portfolio",
         "gitRepo": "https://github.com/mlitfin123/Portfolio_2022",
-        "projectImg": "/favicon/computer.jpg",
+        "projectImg": "favicon/computer.jpg",
         "description": "This is the source code in GitHub for this specific portfolio you're currently looking at.",
         "technologies": [
             {

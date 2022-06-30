@@ -12,7 +12,7 @@ function Contact() {
 
     const handleSubmit = (e) => {
         e.preventDefault();
-        emailjs.sendForm(process.env.REACT_APP_SERVICE_ID, process.env.REACT_APP_TEMPLATE_ID, form.current, process.env.REACT_APP_PUBLIC_KEY).then(
+        emailjs.sendForm("service_p9vf37l", "template_72jzuy6", form.current, "pR7o8WGHrrTBEdmbD").then(
         (result) => {
             alert("Message Sent Successfully");
             console.log(result.text);
