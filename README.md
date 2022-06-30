@@ -1,5 +1,9 @@
 # Portfolio_2022
 
-### _Live Website:_ $https://main.d27vzb4nbu1pvz.amplifyapp.com/
+### **Live Website:**
+
+https://main.d27vzb4nbu1pvz.amplifyapp.com/
+
+### **Description:**
 
 This is my most recent Personal Portfolio created with React.JS and hosted on Amazon Amplify.
