@@ -33,7 +33,7 @@ function Contact() {
                 <div className="form-row">
                 <div className="form-group col-md-12">
                     <label htmlFor="Name">Name:</label>
-                    <input type="text" className="form-control" name="name" maxlength="15" required 
+                    <input type="text" className="form-control" name="name" maxlength="50" required 
                     onChange={event => setName(event.target.value)}
                     value={name}/>
                 </div>
@@ -45,7 +45,7 @@ function Contact() {
                     id="email"
                     placeholder="email@email.com"
                     name="email"
-                    maxlength="20"
+                    maxlength="50"
                     onChange={event => setEmail(event.target.value)}
                     value={email}
                     required
