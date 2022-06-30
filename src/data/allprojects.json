@@ -109,7 +109,7 @@
         "title": "Financial Freedom",
         "liveSite": "https://financialfreedombudget.herokuapp.com/",
         "gitRepo": "https://github.com/mlitfin123/FinancialFreedom",
-        "projectImg": "financial_freedom_thumbnail.PNG",
+        "projectImg": "financial_freedom_thumbnail.png",
         "description": "This is an application created to help a user plan for an improved financial future. The application allows the user to track income and expenses so as to help give a visual for how much he or she is spending each day and month. The user can also view stocks and search for other investments to give them an opportunity to grow their money over time.",
         "technologies": [
             {
@@ -192,7 +192,7 @@
         "id": 5,
         "title": "Candy Run",
         "gitRepo": "https://github.com/mlitfin123/CandyRun",
-        "projectImg": "candy_run_thumbnail.PNG",
+        "projectImg": "candy_run_thumbnail.png",
         "description": "This is a creative board game made with Unity to make exercising more enjoyable. The players roll a dice and a card flips telling the players what their next workout will consist of.",
         "technologies": [
             {
