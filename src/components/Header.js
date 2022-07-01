@@ -18,9 +18,9 @@ return (
                         />
                 </h1>
                 <div>
-                    <label><a href="mailto:marklitfin1@gmail.com" target="_blank" rel="noreferrer"><img src="images\icons\email.png" className="icons" alt="nothing here!"></img></a></label>&nbsp; &bull; &nbsp;
-                    <label><a href="https://github.com/mlitfin123" target="_blank" rel="noreferrer"><img src="images\icons\github_icon.png" className="icons" alt="nothing here!"></img></a></label>&nbsp; &bull; &nbsp;
-                    <label><a href="https://www.linkedin.com/in/mark-litfin-b132bb67/" target="_blank" rel="noreferrer"><img src="images\icons\linkedin_social_icon.png" className="icons" alt="nothing here!"></img></a></label>&nbsp; &bull; &nbsp;
+                    <label><a href="mailto:marklitfin1@gmail.com" target="_blank" rel="noreferrer"><img src="\images\icons\email.png" className="icons" alt="nothing here!"></img></a></label>&nbsp; &bull; &nbsp;
+                    <label><a href="https://github.com/mlitfin123" target="_blank" rel="noreferrer"><img src="\images\icons\github_icon.png" className="icons" alt="nothing here!"></img></a></label>&nbsp; &bull; &nbsp;
+                    <label><a href="https://www.linkedin.com/in/mark-litfin-b132bb67/" target="_blank" rel="noreferrer"><img src="\images\icons\linkedin_social_icon.png" className="icons" alt="nothing here!"></img></a></label>&nbsp; &bull; &nbsp;
                     <label><a href="https://www.instagram.com/marklifting/?hl=en" target="_blank" rel="noreferrer"><img src="\images\icons\Instagram_icon.png" className="icons" alt="nothing here!"></img></a></label>
                 </div>
                 <label id="resume"><a href="utilities/MarkLitfinResume.pdf" target="_blank">View My Resume</a></label>
