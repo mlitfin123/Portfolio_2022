@@ -158,7 +158,7 @@
     {
         "id": 4,
         "title": "John's Welding Services",
-        "liveSite": "https://timesbuilding.herokuapp.com/",
+        "liveSite": "https://www.johnsweldingservices.com/",
         "gitRepo": "https://github.com/mlitfin123/welding_business_site",
         "projectImg": "john's_welding.png",
         "description": "Simple website built for a welding business meant to give an online presence and assist in the process of scaling up.",
@@ -214,7 +214,7 @@
     {
         "id": 6,
         "title": "Space Shooter Game",
-        "liveSite": "https://simmer.io/@mlit123/space-shooter",
+        "liveSite": "https://litgamers.org/spacefree",
         "gitRepo": "https://github.com/mlitfin123/Space_Shooter_Unity",
         "projectImg": "Space_Shooter icon.png",
         "description": "This is a one player space shooter game created with Unity. The player controls a ship and navigates through 20 levels while destroying and avoiding various enemies and obstacles along the way.",
